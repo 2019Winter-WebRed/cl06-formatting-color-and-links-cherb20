@@ -1,0 +1,38 @@
+/*
+* Cristina Herb
+* 5/1/19
+* classwork 06 
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body {
+font-family: sans-serif, Arial, Helvetica; /* This changes the font to the webpage */
+background-color: #E7FFD2; /* This changes the background color of the webpage */
+}
+
+header {background-color: #FFECC7;} /* This changes the background color of the header */
+ 
+main {background-color: #D8FCFF;} /* This changes the background color of the main section */
+
+footer {background-color:  #FFD8FD;} /* This changes the background color of the footer */
+
+h1 {text-decoration: underline; /* This underlines the heading */
+    font-size: 300%; /* This changes the font size of the heading */
+    text-align: center; /* This centers the heading */
+    background-color: #FFE5AA;} /* This changes the background color of the heading */
+
+img {float: left; /* This moves the image to the left */
+    width: 280px; /* This changes the width of the image */
+    height: 140px;} /* This changes the height of the image */
+
+p {background-color: white;  /* This changes the background color of the paragraph */
+    color: darkblue;} /* This changes the text color of the paragraph */
+
+a:hover, a:focus {color: fuchsia;} /* This changes the link color to fushia when you scroll over it */
